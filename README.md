@@ -6,7 +6,7 @@ Experiment with numbers to get accidental, sometimes amazing colors.
 
 
 ## Comments
-Leave your comments [here](https://news.ycombinator.com/item?id=17627470)
+Leave your comments [here](https://news.ycombinator.com/item?id=17627470).
 
 
 ## References
